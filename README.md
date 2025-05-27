@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Mechanical Engineering student at Dongguk University.</h1>
+<h2 align="center">Hi 👋, I'm Mechanical Engineering student at Dongguk University.</h2>
 <h3 align="center">I actively participate in hands-on projects to solve real-world challenges by combining theory and practical experience with a strong interest in autonomous driving and robotics.</h3>
 
 ### 📌 Key Experiences & Projects
